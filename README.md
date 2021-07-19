@@ -6,9 +6,9 @@
 This is my first successful Neuroevolution project! I've attempted to use Neuroevolution to solve the game of Snake last summer, but after months of coding it didn't end up working. This summer, with the help of Professor Daniel Shiffman's videos, I was able to learn things that I didn't do in the past (such as normalizing inputs), and this project ended up being a success!
 
 ## Dependencies/Libraries
-This project uses a modified version of the simple Neural Network implementation by theKayani, here is the link to his Github repo [theKayani](https://github.com/theKayani/Java-Neural-Network).
+This project uses a modified version of the simple Neural Network implementation by theKayani, [here is the link to his Github repo](https://github.com/theKayani/Java-Neural-Network).
 
-This project also uses JFoenix for some UI components to make them more aesthetically pleasing, you can find more information on JFoenix here [JFoenix](http://www.jfoenix.com/).
+This project also uses JFoenix for some UI components to make them more aesthetically pleasing, [you can find more information on JFoenix here](http://www.jfoenix.com/).
 
 **You don't need to actually download any of these dependencies yourself, they're included in the project**
 
